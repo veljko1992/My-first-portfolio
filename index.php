@@ -97,7 +97,7 @@
         <span class="blue mb"> style &#123;</span>
         <div class="row">
           <div class="col-xs-12 col-sm-6 col-lg-4 imgbox">
-            <a href="http://sesnaest.rs/web43/" target="_blank"><img class="img-fluid" src="img\w7.png" alt="Veljko-Ivanovic-Grupni-rad">
+            <a href="http://sesnaest.rs/web43/" target="_blank"><img class="img-fluid" src="img\w7.png" alt="Veljko-Ivanovic-Grupni-rad"></a>
             <div>
               <h3 class="red">Kafe Bar 16</h3>
               <p>Creating a conceptual solution, as well encoding the entire page using HTML, CSS, JavaScript i PHP.</p>
@@ -105,7 +105,7 @@
           </a>
           </div>
           <div class="col-xs-12 col-sm-6 col-lg-4 imgbox">
-            <a href="http://veljkoivanovic.com/" target="_blank"><img class="img-fluid" src="img\w8.png" alt="Veljko-Ivanovic-Lični-Portfolio">
+            <a href="http://veljkoivanovic.com/" target="_blank"><img class="img-fluid" src="img\w8.png" alt="Veljko-Ivanovic-Lični-Portfolio"></a>
             <div>
               <h3 class="red">Portfolio</h3>
               <p>Personal portfolio.</p>
@@ -113,7 +113,7 @@
           </a>
           </div>
           <div class="col-xs-12 col-sm-6 col-lg-4 imgbox">
-            <a href="" target="_blank"><img class="img-fluid" src="img\w1.png" alt="">
+            <a href="" target="_blank"><img class="img-fluid" src="img\w1.png" alt=""></a>
             <div>
               <h3 class="red">Work in progress</h3>
               <p></p>
@@ -121,7 +121,7 @@
           </a>
           </div>
           <div class="col-xs-12 col-sm-6 col-lg-4 imgbox">
-            <a href="" target="_blank"><img class="img-fluid" src="img\w1.png" alt="">
+            <a href="" target="_blank"><img class="img-fluid" src="img\w1.png" alt=""></a>
             <div>
               <h3 class="red">Work in progress</h3>
               <p></p>
@@ -129,7 +129,7 @@
           </a>
           </div>
           <div class="col-xs-12 col-sm-6 col-lg-4 imgbox">
-            <a href="" target="_blank"><img class="img-fluid" src="img\w1.png" alt="">
+            <a href="" target="_blank"><img class="img-fluid" src="img\w1.png" alt=""></a>
             <div>
               <h3 class="red">Work in progress</h3>
               <p></p>
@@ -137,7 +137,7 @@
           </a>
           </div>
           <div class="col-xs-12 col-sm-6 col-lg-4 imgbox">
-            <a href="" target="_blank"><img class="img-fluid" src="img\w1.png" alt="">
+            <a href="" target="_blank"><img class="img-fluid" src="img\w1.png" alt=""></a>
             <div>
               <h3 class="red">Work in progress</h3>
               <p></p>
